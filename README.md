@@ -2,7 +2,7 @@
 a toolbox for checkm8 exploit
 <h1 align="center">
    
-    <p>checkm8 toolbox</p>
+    checkm8 toolbox
 </h1>
 <h3 align="center">This is a gui version of Palera1n jailbreak (ios 15.x-16.x) form Laurin226</h3>
 <p align="center">
