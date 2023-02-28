@@ -22,7 +22,6 @@ a toolbox for checkm8 exploit
 Python3MacApp LearnerTemplate creator: 
 <strong><a href="https://github.com/bartektenDev">ios_euphoria</a></strong>
 
-Original palera1n credits:
 - [Nathan](https://github.com/verygenericname)
     - The ramdisk that dumps blobs, installs pogo to tips app, and duplicates rootfs is a slimmed down version of [SSHRD_Script](https://github.com/verygenericname/SSHRD_Script)
     - For modified [restored_external](https://github.com/verygenericname/sshrd_SSHRD_Script)
