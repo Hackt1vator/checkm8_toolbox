@@ -49,4 +49,6 @@ Original palera1n credits:
 - [Nick Chan](https://github.com/asdfugil) general help with patches.
 - [Sam Bingner](https://github.com/sbingner) for [Substitute](https://github.com/sbingner/substitute)
 - [Serena](https://github.com/SerenaKit) for helping with boot ramdisk.
+
+- Thanks to [Checkra1n](https://github.com/checkra1n) for the checkra1n jailbreak
 </p>
