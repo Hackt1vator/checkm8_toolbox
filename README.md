@@ -21,7 +21,7 @@ a toolbox for checkm8 exploit
 cd DRAG_AND_DROP_applera1n_folder_here
 <h3 align"center">Step 3. run: bash ./install.sh, if it ask you to reinstall something press N
 <h3 align"center">Step 4. Last to launch the app, run this in terminal:
-python3 goldra1n.py
+python3 checkm8.py
 
 # Credits
 
