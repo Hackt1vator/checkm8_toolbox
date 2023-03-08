@@ -15,6 +15,14 @@ a toolbox for checkm8 exploit
 <h3 align="center">Here you can download the Palera1n loader ipa: <strong><a href="https://nightly.link/palera1n/loader/workflows/build/main/palera1n.zip">Palera1n.ipa</a></strong></h3>
 <h3 align="center">How does it work: It boots the device with multiple patches required. On first run, it'll boot a ramdisk which dumps your onboard blob, creates a fakefs (if using semi tethered), installs the loader app, and patches your kernel. </h3>
 
+# launch
+<h3 align"center">Step 1. unzip the applera1n folder and drag and drop it to the desktop
+<h3 align"center">Step 2. Run this in terminal:
+cd DRAG_AND_DROP_applera1n_folder_here
+<h3 align"center">Step 3. run: bash ./install.sh, if it ask you to reinstall something press N
+<h3 align"center">Step 4. Last to launch the app, run this in terminal:
+python3 goldra1n.py
+
 # Credits
 
 Python3MacApp LearnerTemplate creator: 
