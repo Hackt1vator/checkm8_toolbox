@@ -16,7 +16,7 @@ import webbrowser
 # sounds
 # from pygame import mixer
 
-# Designed and developed by @ios_euphoria
+# Designed and developed by @laurin2261
 
 # frame settings
 root = tk.Tk()
