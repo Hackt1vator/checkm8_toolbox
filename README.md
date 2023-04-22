@@ -20,8 +20,17 @@ a toolbox for checkm8 exploit
 <h3 align"center">Step 2. Run this in terminal:
 cd DRAG_AND_DROP_checkm8 toolbox_folder_here
 <h3 align"center">Step 3. run: bash ./install.sh, if it ask you to reinstall something press N
+<h3 align"center">download applera1n and unzip it
+<h3 align"center">Open a terminal window and cd to the directory that applera1n was downloaded to.
+<h3 align"center">Run git init -b main
+<h3 align"center">Run sudo xattr -rd com.apple.quarantine ./*
+<h3 align"center">Run sudo xattr -d com.apple.quarantine ./*
+<h3 align"center">Run sudo chmod 755 ./*
+<h3 align"center">Now cd the applera1n folder inside the applera1n folder and run the last 3 commands above again
+<h3 align"center">cd the applera1n directory again
 <h3 align"center">Step 4. Last to launch the app, run this in terminal:
 python3 checkm8.py
+<h3 align"center">Press: start bypass
 
 # Credits
 
